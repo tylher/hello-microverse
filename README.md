@@ -9,24 +9,25 @@
 - HTML
 - CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-html, css,git
+- html
+- css
+- git
 
 ### Setup
 
-Web browser, git, github
+- Web browser
+- git
+- github
+- Vs code or any other IDE
 
 ### Install
 
@@ -35,8 +36,6 @@ Install chrome web browser [here](https://www.google.com/chrome/?brand=CHBD&gcli
 visit the github repository and clone [here](https://github.com/tylher/hello-microverse)
 
 start editing using your local developmen environment
-
-### Usage
 
 
 ## Authors
